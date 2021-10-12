@@ -1,6 +1,10 @@
 # conference-app
 
-Here will be some information about the app.
+The recent and unprecedented level of innovation in web standards is incredibly exciting. Many features that required frameworks now come standard. You no longer need a proprietary component model, proprietary language extensions, proprietary modules, and so forth. The standardization of the core stack opens the door to a new breed of frameworks: frameworks whose major task is no longer to fill in the gaps in the core stack, but to provide a thin layer of specialized services on top of a standard stack that is now suitable for large scale app development. The benefits are substantial.
+
+Lightning Web Components Open Source is an implementation of that new breed of lightweight frameworks built on web standards. It uses custom elements, templates, shadow DOM, decorators, modules, and other new language constructs available in ECMAScript 6 and beyond.
+
+In this project, you use Lightning Web Components Open Source to create a sample conference management application. This project is the first in a series of three projects that introduce you to Lightning Web Components.
 
 ## How to start?
 
